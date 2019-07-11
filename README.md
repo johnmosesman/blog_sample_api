@@ -1,6 +1,6 @@
 # README
 
-This repo was made to illustrate basic API concepts for [my blog post]().
+This repo was made to illustrate basic API concepts for [my blog post](https://johnmosesman.com/post/after-crud-apis/ ).
 
 ## To use this repo
 
